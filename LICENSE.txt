@@ -14,7 +14,7 @@ Necesse mod, or for other purposes related to creating mods for Necesse.
 
 You are allowed to change or remove this license on your released mod, given
 that all examples have been removed in the final released version of the mod
-(notincluding build tools and scripts).
+(not including build tools and scripts).
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
